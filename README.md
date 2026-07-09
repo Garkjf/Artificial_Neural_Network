@@ -4,7 +4,7 @@ A comprehensive project focused on preprocessing data, experimenting with archit
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 The project is organized as follows:
 
@@ -17,7 +17,7 @@ The project is organized as follows:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 Ensure you have Python installed along with the required machine learning libraries. You can set up your environment using jupyter.
